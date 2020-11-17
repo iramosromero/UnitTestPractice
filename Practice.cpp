@@ -28,16 +28,7 @@ void Practice::sortDescending(int & first, int & second, int & third)
   }
   
 }
-/*
-  if((first > second) && (second > third))
-  {
-    return true;
-  }
-  else
-  {
-    return false;
-  }
-*/
+
 
 
 // Receive a string and return whether or not it is strictly a palindrome,
